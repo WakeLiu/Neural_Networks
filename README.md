@@ -1,5 +1,5 @@
 # Neural_Networks
-# 2018.02.26
+Date: 2018.02.26
 
-This is the repository with many deep learning project of Wake Liu
-Most coded in python3
+1.This is the repository with many deep learning project of Wake Liu
+2.Most coded in python3
